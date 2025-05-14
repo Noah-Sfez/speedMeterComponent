@@ -6,7 +6,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tonpseudo/gauge-graph-wc.git"
+        "url": "https://github.com/Noah-Sfez/speedMeterComponent"
     },
     "files": [
         "dist"
