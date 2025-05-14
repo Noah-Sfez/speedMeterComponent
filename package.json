@@ -1,0 +1,26 @@
+{
+    "name": "gauge-graph-wc",
+    "version": "1.0.0",
+    "description": "Web Component <gauge-graph> – canvas gauge",
+    "author": "Noah Sfez sfz.noah@gmail.com",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tonpseudo/gauge-graph-wc.git"
+    },
+    "files": [
+        "dist"
+    ],
+    "main": "dist/gauge-graph.umd.js",
+    "module": "dist/gauge-graph.es.js",
+    "exports": {
+        "import": "./dist/gauge-graph.es.js",
+        "require": "./dist/gauge-graph.umd.js"
+    },
+    "keywords": [
+        "web-component",
+        "gauge",
+        "canvas",
+        "chart"
+    ]
+}
